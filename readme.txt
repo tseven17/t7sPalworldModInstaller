@@ -4,14 +4,13 @@ t7’s Palworld Mod-Installer
 Version    : 1.2.2
 Author     : t7
 Date       : 07-Jun-2025
-Repo       : https://github.com/<your-repo>   ← replace with actual link
+Repo       : https://github.com/tseven17/t7sPalworldModInstaller
 Contact    : xDREAM Discord  (https://discord.xdreamserver.com)
 
 --------------------------------------------------------------------------------
 Overview
 --------------------------------------------------------------------------------
-A WinForms utility that backs up, installs and verifies Palworld mods.  
-• GUI themed for dark “gamer” style  
+A WinForms utility that backs up, installs and verifies Palworld mods. 
 • Safe backup (copy-then-delete, never moves locked folders)  
 • Detailed integrity check with easy-to-follow repair steps  
 • No external dependencies except .NET 8 Desktop Runtime
@@ -23,17 +22,8 @@ Windows 10/11 x64
 .NET Desktop Runtime 8.0  (https://dotnet.microsoft.com/download)
 
 --------------------------------------------------------------------------------
-How to build from source
---------------------------------------------------------------------------------
-git clone <repo> 
-cd ModInstaller
-dotnet publish -c Release -r win-x64 ^
-               -p:PublishSingleFile=false -p:SelfContained=false
-
---------------------------------------------------------------------------------
 How this binary was produced
 --------------------------------------------------------------------------------
-Commit        : <git commit hash>                ← fill in
 Build machine : Windows 11 22H2, VS 2022 17.10  
 Build cmd     : dotnet publish -c Release -r win-x64 -p:PublishSingleFile=false -p:SelfContained=false
 Sign cmd      : signtool sign /fd SHA256 /t http://timestamp.digicert.com /a ModInstallerApp.exe
@@ -71,11 +61,5 @@ Generate/update via PowerShell:
 License
 --------------------------------------------------------------------------------
 This project is released under the MIT License (see license.txt).
-
-Uploading to Nexus-Mods? Ensure the EXE remains signed and the ZIP structure:
-  /PalworldModInstaller_1.2.2/
-      ModInstallerApp.exe   (signed)
-      *.dll
-      readme.txt
       license.txt
       checksums.sha256
