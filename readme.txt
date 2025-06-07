@@ -42,8 +42,9 @@ v1.1.0 • Initial themed UI release
 --------------------------------------------------------------------------------
 Usage
 --------------------------------------------------------------------------------
+0. Download zip with all files and extract for exe to launch properly
 1. Launch ModInstallerApp.exe
-2. Click **Browse…** and select your Palworld.exe
+2. Click **Browse** and select your Palworld.exe
 3. Use **Backup Mods** before changing anything
 4. Use **Install Modpack** to apply a ZIP that contains a top-level “Pal” folder
 5. **Verify Integrity** checks for missing/changed files
@@ -61,5 +62,3 @@ Generate/update via PowerShell:
 License
 --------------------------------------------------------------------------------
 This project is released under the MIT License (see license.txt).
-      license.txt
-      checksums.sha256
