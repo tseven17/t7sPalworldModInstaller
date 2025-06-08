@@ -1,6 +1,5 @@
 t7’s Palworld Mod-Installer
 ===========================
-
 Version    : 1.2.2
 Author     : t7
 Date       : 07-Jun-2025
