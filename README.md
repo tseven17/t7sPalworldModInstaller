@@ -1,9 +1,13 @@
 t7’s Palworld Mod-Installer
 ===========================
 Version    : 1.2.2
+
 Author     : t7
+
 Date       : 07-Jun-2025
+
 Repo       : https://github.com/tseven17/t7sPalworldModInstaller
+
 Contact    : xDREAM Discord  (https://discord.xdreamserver.com)
 
 --------------------------------------------------------------------------------
@@ -25,6 +29,7 @@ How this binary was produced
 --------------------------------------------------------------------------------
 Build machine : Windows 11 22H2, VS 2022 17.10  
 Build cmd     : dotnet publish -c Release -r win-x64 -p:PublishSingleFile=false -p:SelfContained=false
+
 Sign cmd      : signtool sign /fd SHA256 /t http://timestamp.digicert.com /a ModInstallerApp.exe
 
 --------------------------------------------------------------------------------
@@ -54,8 +59,7 @@ Checksums
 --------------------------------------------------------------------------------
 sha256 hashes for every file in this ZIP are stored in checksums.sha256  
 Generate/update via PowerShell:  
-  Get-FileHash * -Algorithm SHA256 | Format-Table -HideTableHeaders Path,Hash |
-    Out-File checksums.sha256
+  Get-FileHash * -Algorithm SHA256 | Format-Table -HideTableHeaders Path,Hash | Out-File checksums.sha256
 
 --------------------------------------------------------------------------------
 License
