@@ -1,0 +1,14 @@
+C:\App\Mod Installer\ModInstaller\bin\Release\net8.0-windows\win-x64\ModInstaller.exe
+C:\App\Mod Installer\ModInstaller\bin\Release\net8.0-windows\win-x64\ModInstaller.deps.json
+C:\App\Mod Installer\ModInstaller\bin\Release\net8.0-windows\win-x64\ModInstaller.runtimeconfig.json
+C:\App\Mod Installer\ModInstaller\bin\Release\net8.0-windows\win-x64\ModInstaller.dll
+C:\App\Mod Installer\ModInstaller\bin\Release\net8.0-windows\win-x64\ModInstaller.pdb
+C:\App\Mod Installer\ModInstaller\obj\Release\net8.0-windows\win-x64\ModInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\App\Mod Installer\ModInstaller\obj\Release\net8.0-windows\win-x64\ModInstaller.AssemblyInfoInputs.cache
+C:\App\Mod Installer\ModInstaller\obj\Release\net8.0-windows\win-x64\ModInstaller.AssemblyInfo.cs
+C:\App\Mod Installer\ModInstaller\obj\Release\net8.0-windows\win-x64\ModInstaller.csproj.CoreCompileInputs.cache
+C:\App\Mod Installer\ModInstaller\obj\Release\net8.0-windows\win-x64\ModInstaller.dll
+C:\App\Mod Installer\ModInstaller\obj\Release\net8.0-windows\win-x64\refint\ModInstaller.dll
+C:\App\Mod Installer\ModInstaller\obj\Release\net8.0-windows\win-x64\ModInstaller.pdb
+C:\App\Mod Installer\ModInstaller\obj\Release\net8.0-windows\win-x64\ModInstaller.genruntimeconfig.cache
+C:\App\Mod Installer\ModInstaller\obj\Release\net8.0-windows\win-x64\ref\ModInstaller.dll

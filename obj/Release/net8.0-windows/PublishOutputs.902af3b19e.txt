@@ -1,0 +1,5 @@
+C:\App\Mod Installer\ModInstaller\bin\Release\net8.0-windows\publish\ModInstaller.exe
+C:\App\Mod Installer\ModInstaller\bin\Release\net8.0-windows\publish\ModInstaller.dll
+C:\App\Mod Installer\ModInstaller\bin\Release\net8.0-windows\publish\ModInstaller.deps.json
+C:\App\Mod Installer\ModInstaller\bin\Release\net8.0-windows\publish\ModInstaller.runtimeconfig.json
+C:\App\Mod Installer\ModInstaller\bin\Release\net8.0-windows\publish\ModInstaller.pdb
