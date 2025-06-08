@@ -13,7 +13,8 @@ Contact    : xDREAM Discord  (https://discord.xdreamserver.com)
 --------------------------------------------------------------------------------
 Overview
 --------------------------------------------------------------------------------
-A WinForms utility that backs up, installs and verifies Palworld mods. 
+A WinForms utility that backs up, installs and verifies Palworld mods.
+
 • Safe backup (copy-then-delete, never moves locked folders)  
 • Detailed integrity check with easy-to-follow repair steps  
 • No external dependencies except .NET 8 Desktop Runtime
